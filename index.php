@@ -311,7 +311,7 @@
                         </div>
                     </div>
                     <div class="flex justify-center">
-                        <button type="submit" id="button" name="submit" class="p-3 px-8 mt-4 shadow-xl rounded-lg text-lg ">Envoyer</button>
+                        <button type="submit" id="button" name="submit" value="1" class="p-3 px-8 mt-4 shadow-xl rounded-lg text-lg ">Envoyer</button>
                     </div>
                 </form>
             </div>
